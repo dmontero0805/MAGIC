@@ -1,0 +1,2 @@
+# MAGIC
+MAGIC simulation software
